@@ -1,5 +1,5 @@
 ### Hello 👋
 
-My name is Merin Mathew, and I am a QA Engineer currently working towards my goal of becoming a Front End Engineer. I am learning front-end development technologies, and I am excited to apply my skills in my first project, DevBoost.
+My name is Merin Mathew, and I am a Software Developer currently working towards my goal of developing my skills with JavaScript and TypeScript. I am excited to apply my skills in my first projects.
 
 Originally from Kerala, India, I am currently living in Stuttgart, Germany.
